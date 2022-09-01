@@ -4,81 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "97771d5d3c52e7ae",
+        "id": "63d41847c9538746",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "97771d5d3c52e7ae",
+              "leaf": "63d41847c9538746",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily notes/2022-08-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "97771d5d3c52e7ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily notes/2022-08-26.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "97771d5d3c52e7ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily notes/2022-08-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "97771d5d3c52e7ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/永久笔记/数字花园.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":11},\"to\":{\"line\":3,\"ch\":11}}}"
-            },
-            {
-              "leaf": "97771d5d3c52e7ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily notes/2022-08-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "97771d5d3c52e7ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/2-Area/人与科技融合专题/个人效率系统打造/∑ 快捷键.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":29},\"to\":{\"line\":40,\"ch\":29}},\"scroll\":11.097288676236044}"
-            },
-            {
-              "leaf": "97771d5d3c52e7ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/永久笔记/好玩的github或gitee开源库搜集.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "97771d5d3c52e7ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/永久笔记/数字花园.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"scroll\":16.162280701754387}"
-            },
-            {
-              "leaf": "97771d5d3c52e7ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily notes/2022-08-25.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "97771d5d3c52e7ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧰 本库指南/Tutorials/» 本库 PARA 笔记组织法工作流.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "97771d5d3c52e7ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Movies + TV/电视剧笔记/» 电视剧笔记工作流.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-            },
-            {
-              "leaf": "97771d5d3c52e7ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧰 本库指南/Tutorials/» 本库tutorial编写工作流.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/未命名.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -86,10 +20,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calendar/Daily notes/2022-08-25.md",
+            "file": "Calendar/Plan & Review/每周回顾/未命名.md",
             "mode": "source",
             "backlinks": true,
-            "source": true
+            "source": false
           }
         }
       }
@@ -120,10 +54,6 @@
           {
             "id": "4ea8d6f6779182a1",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -135,10 +65,6 @@
           {
             "id": "ce044dedd57e8849",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "search",
               "state": {
@@ -154,26 +80,10 @@
           {
             "id": "a40ba0e5367abc32",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "a40ba0e5367abc32",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🧰 本库指南/Tutorials/快速开始.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false},\"pinned\":true}",
-                  "eState": "{\"scroll\":0}"
-                }
-              ]
-            },
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧰 本库指南/Tutorials/快速开始.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           }
@@ -194,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily notes/2022-08-25.md"
+                "file": "Calendar/Plan & Review/每周回顾/未命名.md"
               }
             }
           },
@@ -208,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily notes/2022-08-25.md",
+                "file": "Calendar/Plan & Review/每周回顾/未命名.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -217,14 +127,10 @@
           {
             "id": "fc8bc67bdab16945",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily notes/2022-08-25.md",
+                "file": "Calendar/Plan & Review/每周回顾/未命名.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -263,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily notes/2022-08-25.md",
+                "file": "Calendar/Plan & Review/每周回顾/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +180,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -291,10 +198,6 @@
           {
             "id": "7b538483993a77c6",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -307,20 +210,17 @@
     "width": 246.67393493652344,
     "collapsed": true
   },
-  "active": "97771d5d3c52e7ae",
-  "ophidian:layout-settings": {
-    "pane-relief:focus-lock": true
-  },
+  "active": "63d41847c9538746",
   "lastOpenFiles": [
-    "Calendar/Daily notes/2022-08-26.md",
-    "Calendar/Daily notes/2022-08-25.md",
-    "Calendar/Daily notes/我的硕士毕业论文致谢.md",
-    "Extras/Templates/∑ 模板文件创建入口.md",
-    "Extras/Templates/anki卡片模板.md",
-    "Cards/永久笔记/数字花园.md",
-    "Spaces/2-Area/人与科技融合专题/个人效率系统打造/∑ 快捷键.md",
-    "Cards/永久笔记/好玩的github或gitee开源库搜集.md",
-    "Calendar/Daily notes/本库数字花园如何嵌入评论系统.md",
-    "Calendar/Daily notes/对于notion迟迟不出中文版的猜想.md"
+    "AboutTheGarden.md",
+    "Calendar/Index for Calendar.md",
+    "Atlas/Dataviews/Index for 已发布文章和草稿.md",
+    "Atlas/Dataviews/∑ 本库Dataview汇总.md",
+    "Atlas/Dataviews/模板汇总.md",
+    "Calendar/Plan & Review/每周回顾/每周写工作周报就精疲力尽，因此暂时不在个人笔记库做每周回顾.md",
+    "Cards/永久笔记/» Daily notes工作流.md",
+    "Cards/永久笔记/vscode必备插件.md",
+    "Cards/永久笔记/zsh.md",
+    "Cards/永久笔记/vscode打开Obsidian笔记库的好处和作用.md"
   ]
 }

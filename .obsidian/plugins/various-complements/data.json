@@ -150,32 +150,10 @@
       }
     },
     "VSCode": {
-      "VSCode": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1659364753851
-        }
-      },
       "🤖VSCode": {
         "internalLink": {
           "count": 1,
           "lastUpdated": 1661390774436
-        }
-      }
-    },
-    "longform": {
-      "longform": {
-        "currentVault": {
-          "count": 2,
-          "lastUpdated": 1659364898112
-        }
-      }
-    },
-    "@Tiago Forte": {
-      "@Tiago Forte": {
-        "internalLink": {
-          "count": 3,
-          "lastUpdated": 1659444346439
         }
       }
     },
@@ -203,27 +181,11 @@
         }
       }
     },
-    "raycast": {
-      "raycast": {
-        "internalLink": {
-          "count": 2,
-          "lastUpdated": 1659201325575
-        }
-      }
-    },
     "cubox": {
       "🤖cubox": {
         "internalLink": {
           "count": 2,
           "lastUpdated": 1660588389206
-        }
-      }
-    },
-    "费曼技巧": {
-      "费曼技巧": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1659103720114
         }
       }
     },
@@ -235,33 +197,11 @@
         }
       }
     },
-    "收录": {
-      "收录": {
-        "currentVault": {
-          "count": 2,
-          "lastUpdated": 1659182942998
-        }
-      }
-    },
     "notion": {
-      "notion": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1659201430519
-        }
-      },
       "🤖notion": {
         "internalLink": {
           "count": 2,
           "lastUpdated": 1661392207279
-        }
-      }
-    },
-    "价值序列": {
-      "价值序列": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1659349330880
         }
       }
     },
@@ -270,38 +210,6 @@
         "internalLink": {
           "count": 3,
           "lastUpdated": 1660051697430
-        }
-      }
-    },
-    "note-refactor": {
-      "note-refactor": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1659364862653
-        }
-      }
-    },
-    "co-bug": {
-      "co-bug": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1659474035351
-        }
-      }
-    },
-    "index索引": {
-      "index索引": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1659495642617
-        }
-      }
-    },
-    "modified": {
-      "modified": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1659497495542
         }
       }
     },
@@ -608,8 +516,8 @@
     "AWS": {
       "AWS": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1659766025533
+          "count": 3,
+          "lastUpdated": 1662011432360
         }
       }
     },
@@ -1132,8 +1040,8 @@
     "Andy Matuschak": {
       "🧑Andy Matuschak": {
         "internalLink": {
-          "count": 1,
-          "lastUpdated": 1660840025682
+          "count": 3,
+          "lastUpdated": 1662011448220
         }
       }
     },
@@ -1258,6 +1166,14 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1661392187744
+        }
+      }
+    },
+    "as": {
+      "as": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1662011426256
         }
       }
     }
