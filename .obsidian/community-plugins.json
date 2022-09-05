@@ -12,7 +12,6 @@
   "pane-relief",
   "obsidian-outliner",
   "quick-explorer",
-  "remotely-save",
   "settings-search",
   "obsidian-sortable",
   "obsidian-shellcommands",
@@ -34,5 +33,6 @@
   "obsidian-annotator",
   "obsidian-smarter-md-hotkeys",
   "sliding-panes-obsidian",
-  "obsidian-keyboard-analyzer"
+  "obsidian-keyboard-analyzer",
+  "obsidian-git"
 ]

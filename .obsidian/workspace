@@ -4,23 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "63d41847c9538746",
+        "id": "ca0ca1ad1f493ee6",
         "type": "leaf",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "63d41847c9538746",
+              "leaf": "ca0ca1ad1f493ee6",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/未命名.md\",\"mode\":\"preview\",\"backlinks\":true,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/react-hook的数据结构.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/从react组件中提取props.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/mobx-react.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/从react组件中提取props.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":25},\"to\":{\"line\":2,\"ch\":25}}}"
             }
           ]
         },
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calendar/Plan & Review/每周回顾/未命名.md",
+            "file": "Calendar/Plan & Review/每周回顾/react-hook的数据结构.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -54,6 +72,10 @@
           {
             "id": "4ea8d6f6779182a1",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "tag",
               "state": {
@@ -65,6 +87,10 @@
           {
             "id": "ce044dedd57e8849",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "search",
               "state": {
@@ -80,6 +106,10 @@
           {
             "id": "a40ba0e5367abc32",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "pinned": true,
             "state": {
               "type": "empty",
@@ -104,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Plan & Review/每周回顾/未命名.md"
+                "file": "Calendar/Plan & Review/每周回顾/react-hook的数据结构.md"
               }
             }
           },
@@ -118,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Plan & Review/每周回顾/未命名.md",
+                "file": "Calendar/Plan & Review/每周回顾/react-hook的数据结构.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,10 +157,14 @@
           {
             "id": "fc8bc67bdab16945",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Plan & Review/每周回顾/未命名.md",
+                "file": "Calendar/Plan & Review/每周回顾/react-hook的数据结构.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Plan & Review/每周回顾/未命名.md",
+                "file": "Calendar/Plan & Review/每周回顾/react-hook的数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,8 +214,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,6 +231,10 @@
           {
             "id": "7b538483993a77c6",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -210,8 +247,10 @@
     "width": 246.67393493652344,
     "collapsed": true
   },
-  "active": "63d41847c9538746",
+  "active": "ca0ca1ad1f493ee6",
   "lastOpenFiles": [
+    "Calendar/Plan & Review/每周回顾/从react组件中提取props.md",
+    "Calendar/Plan & Review/每周回顾/mobx-react.md",
     "AboutTheGarden.md",
     "Calendar/Index for Calendar.md",
     "Atlas/Dataviews/Index for 已发布文章和草稿.md",
@@ -219,8 +258,6 @@
     "Atlas/Dataviews/模板汇总.md",
     "Calendar/Plan & Review/每周回顾/每周写工作周报就精疲力尽，因此暂时不在个人笔记库做每周回顾.md",
     "Cards/永久笔记/» Daily notes工作流.md",
-    "Cards/永久笔记/vscode必备插件.md",
-    "Cards/永久笔记/zsh.md",
-    "Cards/永久笔记/vscode打开Obsidian笔记库的好处和作用.md"
+    "Cards/永久笔记/vscode必备插件.md"
   ]
 }

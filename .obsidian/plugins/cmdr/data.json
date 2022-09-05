@@ -25,12 +25,6 @@
       "icon": "align-left",
       "name": "折叠/展开左侧边栏",
       "mode": "any"
-    },
-    {
-      "id": "obsidian-weread-plugin:sync-weread-notes-command",
-      "icon": "book-open",
-      "name": "Weread Plugin: Sync Weread Notes",
-      "mode": "any"
     }
   ],
   "statusBar": [],
