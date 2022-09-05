@@ -4,6 +4,8 @@ logseq/.recycle
 .DS_Store
 .trash
 
+.idea
+
 # 个人隐私屏蔽
 Spaces/2-Area/个人职业生涯/**
 
