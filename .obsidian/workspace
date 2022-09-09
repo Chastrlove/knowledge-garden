@@ -12,8 +12,68 @@
             {
               "leaf": "ca0ca1ad1f493ee6",
               "group": null,
+              "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Extras/Draws/excalibrain.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
+              "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Extras/Draws/数字时代如何更好地工作与生活 - 图.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/react-hook的数据结构.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/Rust 整形范围.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":186},\"to\":{\"line\":0,\"ch\":186}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/react-hook的数据结构.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/mobx-react.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/arrayBuffer.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/最大余额法.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/从react组件中提取props.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/最大余额法.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "ca0ca1ad1f493ee6",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/Rust 整形范围.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "ca0ca1ad1f493ee6",
@@ -68,58 +128,13 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/从react组件中提取props.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ca0ca1ad1f493ee6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/mobx-react.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ca0ca1ad1f493ee6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/react-hook的数据结构.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":25},\"to\":{\"line\":2,\"ch\":25}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ca0ca1ad1f493ee6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/zustand.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":17},\"to\":{\"line\":10,\"ch\":17}},\"scroll\":0.047619047619047616}"
-            },
-            {
-              "leaf": "ca0ca1ad1f493ee6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/react-hook的数据结构.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ca0ca1ad1f493ee6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/从react组件中提取props.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ca0ca1ad1f493ee6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/mobx-react.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ca0ca1ad1f493ee6",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Plan & Review/每周回顾/从react组件中提取props.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":25},\"to\":{\"line\":2,\"ch\":25}}}"
             }
           ]
         },
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Calendar/Plan & Review/每周回顾/Rust 整形范围.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "Extras/Draws/excalibrain.md"
           }
         }
       }
@@ -212,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Plan & Review/每周回顾/Rust 整形范围.md"
+                "file": "Extras/Draws/excalibrain.md"
               }
             }
           },
@@ -226,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Plan & Review/每周回顾/Rust 整形范围.md",
+                "file": "Extras/Draws/excalibrain.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Plan & Review/每周回顾/Rust 整形范围.md",
+                "file": "Extras/Draws/excalibrain.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -281,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Plan & Review/每周回顾/Rust 整形范围.md",
+                "file": "Extras/Draws/excalibrain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,15 +342,15 @@
   },
   "active": "ca0ca1ad1f493ee6",
   "lastOpenFiles": [
-    "Calendar/Plan & Review/每周回顾/arrayBuffer.md",
-    "Calendar/Plan & Review/每周回顾/从react组件中提取props.md",
+    "Extras/Draws/数字时代如何更好地工作与生活 - 图.md",
     "Calendar/Plan & Review/每周回顾/react-hook的数据结构.md",
-    "Calendar/Plan & Review/每周回顾/最大余额法.md",
+    "Calendar/Plan & Review/每周回顾/Rust 整形范围.md",
     "Calendar/Plan & Review/每周回顾/mobx-react.md",
+    "Calendar/Plan & Review/每周回顾/arrayBuffer.md",
+    "Calendar/Plan & Review/每周回顾/最大余额法.md",
+    "Calendar/Plan & Review/每周回顾/从react组件中提取props.md",
     "Calendar/Plan & Review/每周回顾/zustand.md",
     "AboutTheGarden.md",
-    "Calendar/Index for Calendar.md",
-    "Atlas/Dataviews/Index for 已发布文章和草稿.md",
-    "Atlas/Dataviews/∑ 本库Dataview汇总.md"
+    "Calendar/Index for Calendar.md"
   ]
 }
