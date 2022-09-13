@@ -1,6 +1,6 @@
 ---
 date created: 2022-09-02
-date modified: 2022-09-02
+date modified: 2022-09-13
 title: 从react组件中提取props
 ---
 
