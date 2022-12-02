@@ -14,5 +14,6 @@
   "theme": "system",
   "baseFontSize": 14,
   "baseFontSizeAction": true,
-  "translucency": false
+  "translucency": false,
+  "accentColor": ""
 }
