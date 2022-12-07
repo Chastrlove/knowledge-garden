@@ -372,15 +372,15 @@
   },
   "active": "b71cc364a330a0f9",
   "lastOpenFiles": [
+    "Calendar/Daily notes/2022-12-07.md",
+    "Calendar/每周回顾/zustand.md",
     "Calendar/Daily notes/2022-12-02.md",
     "Calendar/每周回顾/Rust 整形范围.md",
     "Calendar/每周回顾/react-hook的数据结构.md",
-    "Calendar/每周回顾/zustand.md",
     "Calendar/每周回顾/react setState中的bailout.md",
     "Calendar/每周回顾/mobx-react.md",
     "Calendar/每周回顾/arrayBuffer.md",
     "Calendar/每周回顾/最大余额法.md",
-    "Calendar/每周回顾/动态修改Webpack.DefinePlugin如何生效.md",
-    "Calendar/每周回顾/从react组件中提取props.md"
+    "Calendar/每周回顾/动态修改Webpack.DefinePlugin如何生效.md"
   ]
 }
